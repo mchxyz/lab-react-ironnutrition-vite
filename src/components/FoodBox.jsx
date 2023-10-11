@@ -1,3 +1,5 @@
+
+
 const FoodBox = ({ foods, onDelete }) => {
 
 
