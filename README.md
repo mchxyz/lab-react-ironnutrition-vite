@@ -2,7 +2,7 @@
 
 # LAB | React IronNutrition
 
-<details>
+<details> 
   <summary>
    <h2>Learning Goals</h2>
   </summary>
